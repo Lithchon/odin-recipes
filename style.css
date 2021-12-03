@@ -1,0 +1,17 @@
+h1 {
+    display: table;
+    padding: 5px;
+    background-color: yellow;
+    font-weight: bold;
+    text-align: left;
+}
+
+ul.index{
+    text-align: center;
+}
+
+.container {
+    background-color: turquoise;
+    padding: 5px;
+    display: table;
+}
