@@ -4,6 +4,7 @@ h1 {
     background-color: yellow;
     font-weight: bold;
     text-align: left;
+    font-family: Calibri, sans-serif;
 }
 
 ul.index{
@@ -14,4 +15,5 @@ ul.index{
     background-color: turquoise;
     padding: 5px;
     display: table;
+    font-family: 'Courier New', Courier;
 }
